@@ -1,7 +1,7 @@
 # planeKF
-Simple example of the Kalman Filter in MATLAB and Python
+Simple example of the Kalman Filter (KF) in MATLAB and Python
 
-MATLAB and Python realization of the KF example explained by Michel van Biezen in his lecture series on the Kalman filter. See [here](https://www.youtube.com/playlist?list=PLX2gX-ftPVXU3oUFNATxGXY90AULiqnWT) for the full lecture series. The example starts at [Lecture 27](https://www.youtube.com/playlist?list=PLX2gX-ftPVXU3oUFNATxGXY90AULiqnWT).
+MATLAB and Python realization of the KF example explained by Michel van Biezen in his lecture series on the Kalman filter. See [here](https://www.youtube.com/playlist?list=PLX2gX-ftPVXU3oUFNATxGXY90AULiqnWT) for the full lecture series. The example starts at [Lecture 27](https://www.youtube.com/playlist?list=PLX2gX-ftPVXU3oUFNATxGXY90AULiqnWT). It assumes that a plane is moving in one dimension with constant acceleration and no process noise.
 
 - There are no prerequisites to run the MATLAB example.
 - You must have numpy and matplotlib packages to run the Python example.
